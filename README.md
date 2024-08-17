@@ -26,7 +26,7 @@ The centralisation of Bitcoin mining pools poses significant risks to the networ
 
 - **3.2 Idena Identity Integration:** To participate in the mining pool, nodes must first verify their identity through Idena. This process will involve integrating Idena’s API into the P2Pool system, where each node must present a valid Idena identity before contributing its hashrate to the pool. This verification ensures that only legitimate, unique human participants are allowed to mine, reducing the risk of Sybil attacks.
 
-- **3.3 Quadratic Staking Model:** Once verified, participants will stake their IDNA tokens within the pool. The quadratic staking model will be implemented to determine each participant’s share of the mining rewards. This model calculates rewards based on the square root of the staked amount, ensuring that smaller stakeholders receive a relatively larger share of the rewards, which discourages the monopolisation of the mining process by large entities.
+- **3.3 Quadratic Staking Model:** Once verified, participants will stake their IDNA tokens within the pool. The quadratic staking model will be implemented to determine each participant’s share of the mining rewards. participants need to contribute hashrate to be eligable, but the ammount of hashrate does NOT define rewards alone. This model calculates rewards based on the square root of the staked amount, ensuring that smaller stakeholders who add hashrate receive a relatively larger share of the rewards, which discourages the monopolisation of the mining process by large entities.
 
 #### **4. Implementation**
 
