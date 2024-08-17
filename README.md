@@ -68,8 +68,7 @@ The proposed system offers a novel approach to Bitcoin mining, combining the str
 #### **9. Future Work**
 
 - **9.1 Scalability Testing:** Further research is needed to test the scalability of the proposed system under different network conditions.
-- **9.2 User Experience Improvements:** Simplifying the setup process for participants to lower the technical barriers to entry.
-- **9.3 Cross-Chain Implementation:** Exploring the possibility of applying this model to other blockchain networks.
+- **9.2 Cross-Chain Implementation:** Exploring the possibility of applying this model to other blockchain networks.
 
 #### **References**
 
