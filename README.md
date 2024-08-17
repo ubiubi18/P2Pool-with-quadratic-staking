@@ -34,8 +34,8 @@ The centralisation of Bitcoin mining pools poses significant risks to the networ
 
 - **4.2 Adjustments to Mining Pool Logic:** The P2Pool codebase will be modified to incorporate the quadratic staking mechanism. This adjustment involves changing the reward distribution logic so that it accounts for the square root of the staked IDNA tokens, rather than just the raw hashrate. This change ensures that the reward distribution is more equitable and aligned with the principles of decentralisation.
 
-- **4.3 Security Considerations:** Security measures will be implemented to protect against potential attacks on the system, such as identity spoofing or network intrusions. These measures include regular updates to the node software, encrypted communication channels between nodes, and the use of secure cryptographic algorithms to verify identities and distribute rewards.
-
+- **4.3 Security Considerations:** This idea requires people with deep knowledgeto P2Pool as well as idena codebase.
+- 
 #### **5. Strategic Participation of Large Mining Pools**
 
 Large mining pools are likely to participate in the Idena-integrated P2Pool despite initial lower rewards due to the strategic advantages they can leverage. These advantages include:
