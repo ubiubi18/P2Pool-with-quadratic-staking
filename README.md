@@ -12,7 +12,7 @@ The proposed system democratizes Bitcoin mining, making it accessible and profit
 
 #### **1. Introduction**
 
-The centralisation of Bitcoin mining pools poses significant risks to the network’s security and the principles of decentralisation. Existing decentralised pools, such as P2Pool, offer an alternative but face challenges, including lower efficiency and vulnerability to Sybil attacks. This paper explores the integration of Idena’s Proof-of-Personhood with a decentralised mining pool, addressing these issues while introducing a quadratic staking model to distribute rewards more fairly among participants.
+The centralisation of Bitcoin mining pools poses significant risks to the network’s security and the principles of decentralisation. Existing decentralised pools, such as P2Pool, offer an alternative but face challenges, including lower efficiency, which makes investing in centralised pools more profitable. This paper explores the integration of Idena’s Proof-of-Personhood with a decentralised mining pool, addressing these issues while introducing a quadratic staking model to distribute rewards more fairly among participants.
 
 #### **2. Background**
 
