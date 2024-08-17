@@ -34,7 +34,7 @@ The centralisation of Bitcoin mining pools poses significant risks to the networ
 
 - **4.2 Adjustments to Mining Pool Logic:** The P2Pool codebase will be modified to incorporate the quadratic staking mechanism. This adjustment involves changing the reward distribution logic so that it accounts for the square root of the staked IDNA tokens, rather than just the raw hashrate. This change ensures that the reward distribution is more equitable and aligned with the principles of decentralisation.
 
-- **4.3 Security Considerations:** This idea requires people with deep knowledgeto P2Pool codebase as well as idenanetwork codebase.
+- **4.3 Security Considerations:** This idea requires people with deep knowledge to P2Pool codebase as well as idenanetwork codebase.
 
 #### **5. Strategic Participation of Large Mining Pools**
 
