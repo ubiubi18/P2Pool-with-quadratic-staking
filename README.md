@@ -16,7 +16,7 @@ The centralisation of Bitcoin mining pools poses significant risks to the networ
 
 #### **2. Background**
 
-- **2.1 Bitcoin Mining Pools:** Centralised mining pools dominate the Bitcoin network due to their ability to combine large amounts of computational power, leading to more frequent block discoveries and, thus, more consistent rewards. However, this concentration of power undermines the decentralisation ethos of Bitcoin and exposes the network to risks such as 51% attacks.
+- **2.1 Bitcoin Mining Pools:** Centralised mining pools dominate the Bitcoin network due to their ability to combine large amounts of computational power with high efficiency, leading to more frequent block discoveries and, thus, more consistent rewards. However, this concentration of power undermines the decentralisation ethos of Bitcoin and exposes the network to risks such as 51% attacks.
 
 - **2.2 Idena Blockchain:** Idena is a blockchain that uses Proof-of-Personhood to verify human identities without requiring KYC procedures. This system ensures that each participant is a unique human being, preventing the concentration of power in the hands of a few entities. Quadratic staking in Idena further levels the playing field by reducing the influence of large stakeholders, thus promoting fairness and decentralisation.
 
