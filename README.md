@@ -18,6 +18,16 @@ The centralisation of Bitcoin mining pools poses significant risks to the networ
 
 - **2.1 Bitcoin Mining Pools:** Centralised mining pools dominate the Bitcoin network due to their ability to combine large amounts of computational power with high efficiency, leading to more frequent block discoveries and, thus, more consistent rewards. However, this concentration of power undermines the decentralisation ethos of Bitcoin and exposes the network to risks such as 51% attacks or -more realistically - single points of failure at the mining locations for statewise interventions.
 
+In the short term, mining pool operators seem fine with that and focus purely on covering operational costs and peoples desires investing in hashrate, because that's what keeps them afloat. But since profitability is key, as we look ahead, it’s clear the current model has limits, especially with the impact of halvings. The challenges are obvious:
+
+1. Cheaper Energy & more efficient Mining: This has been the go-to strategy—centralizing operations in regions with low energy costs and using more efficient hardware. But there's only so much centralization can achieve, and we might already be hitting those limits.
+
+2. Rising Bitcoin Price/Market Cap: Bitcoin’s price growth has historically offset halving impacts, but expecting it to double every halving is unrealistic. The market cap would need to skyrocket to levels far beyond global stockmarketcap, which is a serious constrain. There are 28 halvings to go, but within 7 halvings bitcoin marketcap would already need to be bigger than all of global stockmarketcap combined, just to sustain the same mining rewards in $ as of today.
+
+3. Increasing Fees: Higher transaction fees could compensate for lower block rewards, but Bitcoin’s layer 1 has scalability issues, a limited number of tx per block. It would not be possible to sell more tx, but just more expensive tx. Even if we assume global adoption, relying on occasional expensive transactions on the main chain through centralized layer 2 solutions comes rather sooner than later to an imaceptable fee.
+
+All three of these approaches have limits that will likely become evident over the next two to three halvings. If these strategies fall short, Bitcoin mining will become unprofitable, forcing a significant decline of security or a general change. Miners might need to either rethink the consensus mechanism or find a new hedge-model that keeps mining viable, decentralized, and introduces new reward schemes. 
+
 - **2.2 Idena Blockchain:** Idena is a blockchain that uses Proof-of-Personhood to verify human identities without requiring KYC procedures. This system ensures that each participant is a unique human being, preventing the concentration of power in the hands of a few entities. Quadratic staking in Idena further levels the playing field by reducing the influence of large stakeholders, thus promoting fairness and decentralisation.
 
 #### **3. System Architecture**
