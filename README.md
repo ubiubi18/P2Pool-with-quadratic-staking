@@ -83,6 +83,6 @@ The proposed system offers a novel approach to Bitcoin mining, combining the str
 #### **References**
 
 - Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System.
-- Idena Team. (2020). Idena Whitepaper: Proof-of-Personhood.
+- Idena Team. (2018). Idena Whitepaper: Proof-of-Personhood.
 - P2Pool Developers. (2011). P2Pool: Decentralized Mining Pool.
 
